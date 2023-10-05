@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: links-ng
+  annotations:
+    github.com/project-slug: sonatype/links-ng
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guest
