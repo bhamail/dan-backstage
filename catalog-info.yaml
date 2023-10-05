@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: links-ng
+  name: dan-micro-service
   annotations:
-    github.com/project-slug: sonatype/links-ng
+    github.com/project-slug: bhamail/dan-backstage
 spec:
   type: other
   lifecycle: unknown
