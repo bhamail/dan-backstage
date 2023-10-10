@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: component
 metadata:
   name: dan-micro-service
   annotations:
@@ -9,4 +9,4 @@ spec:
   lifecycle: unknown
   owner: guest
   dependencyOf: 
-    - Component:links-ng
+    - component:links-ng
