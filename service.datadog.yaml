@@ -1,0 +1,17 @@
+schema-version: v2.1
+dd-service: dan-micro-service-datadog
+team: guest
+application: dan-micro-service-datadog-application
+description: A simple test service that Dan created to show field mappings and test stuff.
+contacts:
+  - name: Dan Rollo
+    type: email
+    contact: drollo@sonatype.com
+links:
+  - name: Datadog Service Catalog schema v2.1
+    type: doc
+    provider: github
+    url: https://github.com/DataDog/schema/blob/main/service-catalog/v2.1/schema.json
+tier: 5
+lifecycle: sandbox
+

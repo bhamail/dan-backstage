@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: component
 metadata:
-  name: dan-micro-service
+  name: dan-micro-service-backstage
   description: A simple test service that Dan created to show field mappings and test stuff.
   annotations:
     github.com/project-slug: bhamail/dan-backstage
