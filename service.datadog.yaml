@@ -1,8 +1,8 @@
 #schema-version: v2.2
 schema-version: v2.1
-dd-service: dan-micro-service-datadog
+dd-service: dan-service-datadog
 team: guest
-application: dan-micro-service-datadog-application
+application: dan-service-application
 description: A simple test service that Dan created to show field mappings and test stuff.
 contacts:
   - name: Dan Rollo
@@ -24,11 +24,13 @@ languages: none
 
 ---
 schema-version: v2.1
-dd-service: dan-micro-service-datadog2
+dd-service: dan-service-datadog2
 team: guest
-application: dan-micro-service-datadog-application
+application: dan-service-application
 description: A second service, defined in one config file.
 contacts:
   - name: Dan Rollo2
     type: email
     contact: drollo@sonatype.com
+tier: 5
+lifecycle: sandbox
