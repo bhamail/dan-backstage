@@ -1,7 +1,7 @@
 #schema-version: v2.2
 schema-version: v2.1
 dd-service: dan-service-datadog
-team: guest
+team: dan-team
 application: dan-service-application
 description: A simple test service that Dan created to show field mappings and test stuff.
 contacts:
@@ -25,7 +25,7 @@ languages: none
 ---
 schema-version: v2.1
 dd-service: dan-service-datadog2
-team: guest
+team: dan-team
 application: dan-service-application
 description: A second service, defined in one config file.
 contacts:

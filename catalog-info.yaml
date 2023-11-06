@@ -8,7 +8,7 @@ metadata:
 spec:
   type: other
   lifecycle: unknown
-  owner: guest
+  owner: dan-team
   dependencyOf: 
     - component:links-ng
   system: links-ng
