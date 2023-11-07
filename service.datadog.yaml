@@ -12,7 +12,7 @@ links:
     type: doc
     provider: github
     url: https://github.com/DataDog/schema/blob/main/service-catalog/v2.2/schema.json
-tier: 5
+tier: "5"
 lifecycle: sandbox
 type: custom
 languages: none
@@ -27,5 +27,5 @@ contacts:
   - name: Dan Rollo2
     type: email
     contact: drollo@sonatype.com
-tier: 5
+tier: "5"
 lifecycle: sandbox
