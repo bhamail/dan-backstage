@@ -1,4 +1,4 @@
-schema-version: v2.2
+schema-version: v2.1
 dd-service: dan-service-datadog
 team: dan-team
 application: dan-service-application
@@ -8,6 +8,10 @@ contacts:
     type: email
     contact: drollo@sonatype.com
 links:
+  - name: Datadog Service Catalog schema v2.1
+    type: doc
+    provider: github
+    url: https://github.com/DataDog/schema/blob/main/service-catalog/v2.1/schema.json
   - name: Datadog Service Catalog schema v2.2
     type: doc
     provider: github
@@ -18,7 +22,7 @@ type: custom
 languages: none
 
 ---
-schema-version: v2.2
+schema-version: v2.1
 dd-service: dan-service-datadog2
 team: dan-team
 application: dan-service-application
