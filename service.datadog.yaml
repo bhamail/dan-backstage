@@ -1,7 +1,7 @@
 schema-version: v2.1
-dd-service: dan-service-datadog
+dd-service: dan-service-datadog1
 team: dan-team
-application: dan-service-application1
+application: dan-service-application
 description: A simple test service that Dan created to show field mappings and test stuff.
 contacts:
   - name: Dan Rollo
