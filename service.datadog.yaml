@@ -1,4 +1,4 @@
-schema-version: v2.1
+schema-version: v2.2
 dd-service: dan-service-datadog
 team: dan-team
 application: dan-service-application
@@ -22,7 +22,7 @@ type: custom
 languages: none
 
 ---
-schema-version: v2.1
+schema-version: v2.2
 dd-service: dan-service-datadog2
 team: dan-team
 application: dan-service-application
