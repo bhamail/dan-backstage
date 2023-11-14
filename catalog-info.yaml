@@ -11,4 +11,4 @@ spec:
   owner: dan-team
   dependencyOf: 
     - component:links-ng
-  system: links-ng
+  system: dan-service-application
