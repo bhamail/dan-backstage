@@ -24,7 +24,7 @@ languages: none
 ---
 schema-version: v2.1
 dd-service: dan-service-datadog2
-team: dan-team
+team: private-cloud
 application: dan-service-application
 description: A second service, defined in one config file.
 contacts:
