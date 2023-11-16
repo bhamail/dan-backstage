@@ -22,18 +22,18 @@ type: custom
 languages:
   - bash
 
-#---
-#schema-version: v2.1
-#dd-service: dan-service-datadog2
-#team: dan-team
-#application: dan-service-application
-#description: A second service, defined in one config file.
-#contacts:
-#  - name: Dan Rollo2
-#    type: email
-#    contact: drollo@sonatype.com
-#  - name: private-cloud-operations
-#    type: slack
-#    contact: https://sonatype.slack.com/archives/C03STCPJSMR
-#tier: "5"
-#lifecycle: sandbox
+---
+schema-version: v2.2
+dd-service: dan-service-datadog2
+team: dan-team
+application: dan-service-application
+description: A second service, defined in one config file.
+contacts:
+  - name: Dan Rollo2
+    type: email
+    contact: drollo@sonatype.com
+  - name: private-cloud-operations
+    type: slack
+    contact: https://sonatype.slack.com/archives/C03STCPJSMR
+tier: "5"
+lifecycle: sandbox
