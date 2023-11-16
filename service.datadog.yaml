@@ -16,7 +16,7 @@ links:
     type: doc
     provider: github
     url: https://github.com/DataDog/schema/blob/main/service-catalog/v2.2/schema.json
-tier: "5"
+tier: "4"
 lifecycle: sandbox
 type: custom
 languages:
