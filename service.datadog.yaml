@@ -1,4 +1,4 @@
-schema-version: v2.1
+schema-version: v2.2
 dd-service: dan-service-datadog1
 team: dan-team
 application: dan-service-application
